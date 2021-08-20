@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgreen;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
